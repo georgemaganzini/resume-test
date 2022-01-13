@@ -1,0 +1,26 @@
+{
+    "name": "George Maganzini",
+    "website": "https://github.com/georgemaganzini",
+    "linkedin": "https://www.linkedin.com/in/georgemaganzini/",
+    "github": "georgemaganzini",
+    "email": "georgemaganzini@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
